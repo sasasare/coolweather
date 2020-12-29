@@ -34,4 +34,5 @@ dependencies {
     implementation 'com.github.bumptech.glide:glide:4.5.0' //Glide用于加载展示图片
     implementation 'com.android.support:appcompat-v7:30.0.0'
     implementation 'org.litepal.guolindev:core:3.2.2'//Litepal数据库
+    implementation 'androidx.swiperefreshlayout:swiperefreshlayout:1.0.0'//加入上拉刷新
 }
